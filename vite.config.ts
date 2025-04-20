@@ -8,6 +8,9 @@ export default defineConfig({
         port: Number(process.env.PORT) || 3000, // Convert PORT to a number or default to 3000
         host: '0.0.0.0', // Bind to all network interfaces
     },
+    preview: {
+      allowedHosts: ['talenthub-4.onrender.com'], // Allow this host
+    },
     build: {
         outDir: 'dist', // Default output directory
     },
