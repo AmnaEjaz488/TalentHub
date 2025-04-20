@@ -20,7 +20,9 @@ npm run start
 
 ## Author
 
-* Github: [@https:\/\/github.com\/AmnaEjaz488\/TalentHub](https://github.com/https:\/\/github.com\/AmnaEjaz488\/TalentHub)
+* Github: https://github.com/AmnaEjaz488/TalentHub 
+
+
 
 ## Show your support
 
