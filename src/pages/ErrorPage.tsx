@@ -1,10 +1,12 @@
-const ErrorPage = () => {
-  return (
-    <section>
-      <h1>404: Page Not Found</h1>
-      <h1> ¯\_(ツ)_/¯</h1>
-    </section>
-  );
+import React from 'react';
+
+const ErrorPage: React.FC = () => {
+    return (
+        <div>
+            <h2>Error</h2>
+            <p>Something went wrong. Please try again later.</p>
+        </div>
+    );
 };
 
 export default ErrorPage;
